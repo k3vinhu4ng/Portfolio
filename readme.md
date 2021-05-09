@@ -5,7 +5,7 @@
 
 ## Project Description
 ### Portfolio Website.
-Portfolio index page has prominent icon links to Linkedin and Github. The About Me page includes education credentials and relevant computer skills. The projects page includes screenshots, descriptions, and links to projects. The footer of this website also has Linkedin and Github icons, as well as a button that downloads a copy of my resume. All links on this website are also opened in a new tab. 
+Portfolio Index page has a hero image with prominent icon links to Linkedin and Github. The "About Me" page includes education credentials and relevant computer skills. The "Projects" page includes screenshots, descriptions, and links to projects. The footer of this website also has Linkedin and Github icons, as well as a button that downloads a copy of my resume. All links on this website are also opened in a new tab. 
 
 ## Designs
 Made using Figma.
